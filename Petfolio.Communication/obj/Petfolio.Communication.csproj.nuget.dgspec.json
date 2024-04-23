@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {}
+    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
+    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectUniqueName": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "projectName": "Petfolio.Communication",
-        "projectPath": "C:\\xampp\\htdocs\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Petfolio\\Petfolio.Communication\\obj\\",
+        "outputPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Microsoft Visual Studio\\SDKs\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+C:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.deps.json
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.pdb
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.pdb
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.AssemblyReference.cache
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfoInputs.cache
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfo.cs
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json
+C:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.32F76676.Up2Date
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
+C:\xampp\htdocs\cursos\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll

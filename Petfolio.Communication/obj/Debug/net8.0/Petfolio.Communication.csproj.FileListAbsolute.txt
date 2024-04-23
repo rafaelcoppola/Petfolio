@@ -1,0 +1,12 @@
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.deps.json
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.pdb
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfoInputs.cache
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfo.cs
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.sourcelink.json
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
+c:\xampp\htdocs\cursos\Petfolio\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
