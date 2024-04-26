@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
-                "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj"
+              "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
+    "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "projectName": "Petfolio.Communication",
-        "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"

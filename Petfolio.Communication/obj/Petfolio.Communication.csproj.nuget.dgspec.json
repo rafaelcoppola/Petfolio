@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {}
+    "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {}
   },
   "projects": {
-    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
+    "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "projectName": "Petfolio.Communication",
-        "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
