@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hO+spWMT3YeHAH/WE7pTqIktfD/PKqE0SNnm1k5HrPj/x4Clbf+sB27XKBzoUK5hErApz0HIMXCvzDq9/jXBew==",
+  "dgSpecHash": "QLyYxcwzbvNoJs9ZggMoYCMjuVdajzeOqUAa8FsfrhSNYoekYDKVmJdXE/0JBWhHD4mU6NxcxdKBjAtAd630ww==",
   "success": true,
-  "projectFilePath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

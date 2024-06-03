@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sVgZy06/BS0d6qB/vaDKC+QBmH+ljnHegSE656AbWAwlm2U1cU++FyZAMn6RHsTdAihovqRX1pD9ZkBCgLX7Q==",
+  "dgSpecHash": "FLvHAA9qUysamqK+GpIyY1bKltDwTVaZ5dSD4Ayk0b1HgLRN6LNiSveeCLXvDo6ocpG13UAalA+5l2CC64WEQg==",
   "success": true,
-  "projectFilePath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\Petfolio.API.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\Petfolio.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

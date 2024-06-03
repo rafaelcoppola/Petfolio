@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj": {}
+    "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj": {}
   },
   "projects": {
-    "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj": {
+    "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj",
         "projectName": "Petfolio.Application",
-        "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"

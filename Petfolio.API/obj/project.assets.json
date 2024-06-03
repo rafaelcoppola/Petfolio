@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\Petfolio.API.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\Petfolio.API.csproj",
       "projectName": "Petfolio.API",
-      "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\Petfolio.API.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\Petfolio.API.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -487,8 +487,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj": {
-              "projectPath": "c:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj"
+            "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Application\\Petfolio.Application.csproj"
             },
             "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
               "projectPath": "C:\\xampp\\htdocs\\cursos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj"
